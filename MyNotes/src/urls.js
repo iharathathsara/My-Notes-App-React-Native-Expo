@@ -1,0 +1,1 @@
+export const main_url ="http://192.168.8.121/mynotes/";
